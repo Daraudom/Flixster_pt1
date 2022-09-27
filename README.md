@@ -30,10 +30,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Daraudom/Flixster_pt1/blob/master/flixsterwalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LiceCap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -42,7 +42,7 @@ GIF created with ...
 ## Notes
 
 The biggest challenge I stumbled is having to deal with frequent installation errors of my app. Initially, it was fine but towards the end I wasn't able to run my app.
-It kept saying that the connection was refused. I tried looking it up and tried different things, but it still didn't work. Hence, I wasn't able to produce a walkthrough or check if my app is functional.
+It kept saying that the connection was refused. I tried looking it up and tried different things, but it still didn't work. Hence, I wasn't able to produce a walkthrough or check if my app is functional. I currently have a problem displaying each movie line by line.
 
 ## License
 
